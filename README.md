@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/web-design-technology-browsing-programming-concept_1273576-6848.jpg?uid=R75223965&ga=GA1.1.517352774.1720159136&semt=ais_user_ai_gen"  height="30" width="100"/>
+  <img src="https://img.freepik.com/premium-photo/web-design-technology-browsing-programming-concept_1273576-6848.jpg?uid=R75223965&ga=GA1.1.517352774.1720159136&semt=ais_user_ai_gen"  height="80"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rutuja Mashere</h1>
