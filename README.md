@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"/>
+  <img src="https://img.freepik.com/premium-photo/web-design-technology-browsing-programming-concept_1273576-6848.jpg?uid=R75223965&ga=GA1.1.517352774.1720159136&semt=ais_user_ai_gen"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rutuja Mashere</h1>
